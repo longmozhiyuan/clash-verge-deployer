@@ -1,0 +1,13 @@
+﻿__pycache__/
+*.py[cod]
+blocklist.txt
+blocked-urls.txt
+blocked-events.log
+custom-blocklist.txt
+subscription-hashes.json
+*.bak
+*.bak-*
+logs/
+*.log
+.DS_Store
+Thumbs.db

@@ -1,0 +1,60 @@
+# 正规站点直连规则清单（浏览器侧配套：敏感/常用正规站点走 DIRECT，不经过代理节点）
+# 规则：每行一个域名后缀，生成的规则为 DOMAIN-SUFFIX,<行内容>,DIRECT
+# 官方与公共服务（政府、教育、金融、支付、运营商）
+gov.cn
+edu.cn
+pbc.gov.cn
+alipay.com
+alipayobjects.com
+tenpay.com
+unionpay.com
+unionpaysecure.com
+95516.com
+icbc.com.cn
+ccb.com
+abchina.com
+boc.cn
+bankcomm.com
+psbc.com
+cmbchina.com
+spdb.com.cn
+citicbank.com.cn
+cebbank.com
+cib.com.cn
+hxb.com
+cgbchina.com.cn
+cmbc.com.cn
+pingan.com
+bankofbeijing.com.cn
+10086.cn
+10010.com
+189.cn
+12306.cn
+# 主流互联网与内容服务
+baidu.com
+bdstatic.com
+taobao.com
+tmall.com
+jd.com
+qq.com
+weixin.qq.com
+weixin.com
+weibo.com
+sina.com.cn
+zhihu.com
+bilibili.com
+bilibili.tv
+douyin.com
+bytedance.com
+toutiao.com
+163.com
+126.com
+netease.com
+sohu.com
+ifeng.com
+people.com.cn
+xinhuanet.com
+cctv.com
+eastmoney.com
+xueqiu.com
+# 用户可按需增删；本清单仅供直连建议，不构成任何访问许可
