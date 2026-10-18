@@ -1,3 +1,4 @@
+﻿> **免责声明**：本工具仅用于学习与研究目的，不提供任何代理服务，也不运营任何节点。内置订阅源均为公开 GitHub 仓库。使用者须自行遵守所在国家/地区的法律法规，并对自身使用行为承担全部责任。
 # clash-verge-deployer（DeepSeek Harness 版）
 
 为 [Clash Verge Rev](https://github.com/clash-verge-rev/clash-verge-rev) 自动部署代理订阅的 DeepSeek Harness（dsh）技能：
@@ -172,3 +173,4 @@ python scripts/deploy_clash.py --url-file $HOME/.config/clash-sub-url.txt --pin-
 
 删除技能目录即可（例如 `~/.dsh/skills/clash-verge-deployer`），不会留下任何系统改动。
 Clash Verge 配置目录中的 `.bak-*` 备份确认无用后可手动删除。
+
