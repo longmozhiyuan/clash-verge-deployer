@@ -1,5 +1,8 @@
-﻿> **免责声明**：本工具仅用于学习与研究目的，不提供任何代理服务，也不运营任何节点。内置订阅源均为公开 GitHub 仓库。使用者须自行遵守所在国家/地区的法律法规，并对自身使用行为承担全部责任。
 # clash-verge-deployer（DeepSeek Harness 版）
+
+![GitHub stars](https://img.shields.io/github/stars/longmozhiyuan/clash-verge-deployer) ![GitHub license](https://img.shields.io/github/license/longmozhiyuan/clash-verge-deployer)
+
+> **免责声明（重要）**：本仓库所有内容仅供学术交流与学习研究使用。作者为编程与 AI 领域新手，本技能仅是个人实践之作，现免费开源供大家参考使用。使用者须自行遵守所在国家/地区的法律法规；因使用本工具导致的任何意外、损失或触犯法律的情况，后果均由使用者自行承担，与作者无关。本工具不提供任何代理服务，不运营任何节点，内置订阅源均为公开 GitHub 仓库。
 
 为 [Clash Verge Rev](https://github.com/clash-verge-rev/clash-verge-rev) 自动部署代理订阅的 DeepSeek Harness（dsh）技能：
 访问前本地合规拦截（违法链接永久拉黑）→ 安全下载校验订阅 → 路由劫持审计 → proxies 段去重 → TCP 抽测 → 备份写入 → 重启应用 → 自动选择低延迟节点 → 验证连通。
